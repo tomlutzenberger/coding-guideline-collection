@@ -1,0 +1,79 @@
+;;;;;
+;
+; Just a cheatsheet for all supported (and maybe coming) features and their values
+;
+;;;;;
+
+
+
+;;;
+; Widely Supported by Editors
+;;;
+
+; The values are case insensitive. They will be lowercased by the core library.
+indent_style = ['tab'|'space']
+
+; Indentation Size (in single-spaced characters)
+indent_size = [int|'tab']
+
+; Width of a single tabstop character (defaults indent_size when indent_size is a number)
+tab_width = [+int]
+
+; Line ending file format (Unix, DOS, Mac)
+end_of_line = ['lf'|'crlf'|'cr']
+
+; File character encoding
+charset = ['latin1'|'utf-8'|'utf-16b'e|'utf-16le']
+
+; Denotes whether whitespace is allowed at the end of lines
+trim_trailing_whitespace = [true|false]
+
+; Denotes whether file should end with a newline
+insert_final_newline = [true|false]
+
+
+
+;;;
+; Supported By A Limited Number of Editors (Emacs, Vim)
+;;;
+
+; Forces hard line wrapping after the amount of characters specified. off to turn off this feature (use the editor settings).
+max_line_length = [+int|'off']
+
+
+
+;;;
+; Domain-Specific Properties (not intended to be implemented by EditorConfig)
+;;;
+
+; Denotes preferred quoting style for string literals (for languages that support multiple quote styles)
+quote_type = ['single'|'double'|'auto']
+
+; Denotes the include paths of header files for some languages. Could be used by syntax checkers and compilers inside editors.
+c_include_path = [':']
+
+; Denotes the CLASSPATH used by the Java source files. Could be used by some Java syntax checkers and compilers inside editors
+java_class_path = [':']
+
+; Denotes whether the left part of the curly bracket should be on the next line or not
+curly_bracket_next_line = [true|false]
+
+; Denotes whether spaces should be present around arithmetic and boolean operators
+spaces_around_operators = [true|false|hybrid]
+
+; Denotes how spaces should be around brackets and parentheses: no space, only inside the brackets, only outside the brackets, or at the both side of brackets
+spaces_around_brackets = [none|inside|outside|both]
+
+; Denotes the style for using curly braces in code blocks
+indent_brace_style = [K&R|Allman|GNU|Horstmann]
+
+; Denotes the continuation indent size. Useful to distinguish code blocks versus continuation lines
+continuation_indent_size = [int]
+
+; Denotes the block_comment or line_comment character to mark a block or each line as comment.
+; Some languages require # predended on each line, others // or ;.
+; Some have specific block start markers and end markers such as /* and */ and <!-- and --!>
+block_comment = [char]
+line_comment = [char]
+block_comment_start = [char]
+block_comment_end = [char]
