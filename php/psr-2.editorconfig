@@ -4,7 +4,7 @@
 ; For details see:
 ; https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 ;
-;
+
 
 ; Support for older PHP versions
 [*.{php,php3,php4,php5}]
