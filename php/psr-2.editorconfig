@@ -1,7 +1,9 @@
 ;
-; Editorconfig for PSR-1 coding standard
+; Editorconfig for PSR-2 coding standard
+; Includes PSR-1
 ;
 ; For details see:
+; http://www.php-fig.org/psr/psr-2/
 ; https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 ;
 
