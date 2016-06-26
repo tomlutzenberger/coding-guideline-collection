@@ -1,0 +1,17 @@
+;
+; Editorconfig for Oracle Java coding standard
+;
+; For details see:
+; http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
+;
+
+
+; Support for older PHP versions
+[*.java]
+; "Four spaces should be used as the unit of indentation. The exact construction of the indentation (spaces vs. tabs) is unspecified."
+indent_style = space
+indent_size = 4
+
+
+; Supported By A Limited Number of Editors
+max_line_length = 80
