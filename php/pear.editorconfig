@@ -1,0 +1,20 @@
+;
+; Editorconfig for PEAR coding standard
+;
+; For details see:
+; http://pear.php.net/manual/en/standards.php
+;
+
+
+; Support for older PHP versions
+[*.{php,php3,php4,php5}]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+insert_final_newline = true
+
+
+; Supported By A Limited Number of Editors
+; "It is recommended to keep lines at approximately 75-85 characters long for better code readability."
+max_line_length = 85
