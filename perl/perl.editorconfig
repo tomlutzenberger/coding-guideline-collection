@@ -1,0 +1,11 @@
+;
+; Editorconfig for Perl coding standard
+;
+; For details see:
+; http://perldoc.perl.org/perlstyle.html
+;
+
+
+[*.pl]
+indent_style = space
+indent_size = 4
