@@ -1,0 +1,17 @@
+;
+; Editorconfig for Python coding standard
+;
+; For details see:
+; https://www.python.org/dev/peps/pep-0008/
+;
+
+
+[*.py]
+indent_style = space
+indent_size = 4
+charset = utf-8
+trim_trailing_whitespace = true
+
+
+; Supported By A Limited Number of Editors
+max_line_length = 79
