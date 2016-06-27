@@ -3,6 +3,22 @@
 This is a collection of `.editorconfig` Files, which follow common coding guidelines.
 It is intended to make it easier for developers to include them in their projects and therefore make life easier.
 
+## Editorconfig Rules
+The following rules are currently supported in all plugins:
+
+ * indent_style
+ * indent_size
+ * tab_width
+ * end_of_line
+ * charset
+ * trim_trailing_whitespace
+ * insert_final_newline
+
+Supported By A Limited Number of Editors (Emacs, Vim):
+
+ * max_line_length
+
+For details, see [EditorConfig Wiki: Properties](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
 
 ## Included Languages and Guidelines
 

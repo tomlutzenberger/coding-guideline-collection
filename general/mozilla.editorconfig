@@ -13,9 +13,6 @@ indent_size = 2
 end_of_line = lf
 trim_trailing_whitespace = true
 insert_final_newline = true
-
-
-; Supported By A Limited Number of Editors
 max_line_length = 80
 
 

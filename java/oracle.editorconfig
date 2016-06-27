@@ -11,7 +11,4 @@
 ; "Four spaces should be used as the unit of indentation. The exact construction of the indentation (spaces vs. tabs) is unspecified."
 indent_style = space
 indent_size = 4
-
-
-; Supported By A Limited Number of Editors
 max_line_length = 80

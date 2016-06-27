@@ -25,7 +25,5 @@ indent_style = tab
 [*.js]
 indent_style = tab
 trim_trailing_whitespace = true
-
-; Supported By A Limited Number of Editors
 ; "jQuery’s 100-character hard line limit is encouraged, but not strictly enforced."
 max_line_length = 100

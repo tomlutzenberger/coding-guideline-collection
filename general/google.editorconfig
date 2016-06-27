@@ -14,8 +14,6 @@ indent_size = 2
 end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
-
-; Supported By A Limited Number of Editors
 max_line_length = 80
 
 
@@ -35,9 +33,6 @@ indent_style = space
 indent_size = 2
 charset = utf-8
 trim_trailing_whitespace = true
-
-; Supported By A Limited Number of Editors
-;
 ; https://google.github.io/styleguide/javaguide.html#s4.4-column-limit
 ; "Projects are free to choose a column limit of either 80 or 100 characters."
 max_line_length = 80
@@ -48,8 +43,6 @@ max_line_length = 80
 [*.js]
 indent_style = space
 indent_size = 4
-
-; Supported By A Limited Number of Editors
 max_line_length = 80
 
 
@@ -58,8 +51,6 @@ max_line_length = 80
 [*.lisp]
 ; "Indent your code the way a properly configured GNU Emacs does."
 indent_style = space
-
-; Supported By A Limited Number of Editors
 max_line_length = 100
 
 
@@ -68,8 +59,6 @@ max_line_length = 100
 [*.{m,h}]
 indent_style = space
 indent_size = 2
-
-; Supported By A Limited Number of Editors
 ; "The maximum line length for Objective-C and Objective-C++ files is 100 columns. Projects may opt to use an 80 column limit for consistency with the C++ style guide."
 max_line_length = 100
 
@@ -79,8 +68,6 @@ max_line_length = 100
 [*.py]
 indent_style = space
 indent_size = 4
-
-; Supported By A Limited Number of Editors
 max_line_length = 80
 
 
@@ -89,8 +76,6 @@ max_line_length = 80
 [*.R]
 indent_style = space
 indent_size = 2
-
-; Supported By A Limited Number of Editors
 max_line_length = 80
 
 
@@ -99,8 +84,6 @@ max_line_length = 80
 [*.sh]
 indent_style = space
 indent_size = 2
-
-; Supported By A Limited Number of Editors
 max_line_length = 80
 
 
