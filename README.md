@@ -6,17 +6,38 @@ It is intended to make it easier for developers to include them in their project
 
 ## Included Languages and Guidelines
 
-### General (Projects or Organisations using multiple languages)
+### General
+These are `.editorconfig` Files, which contain coding standards of Projects or Organisations using multiple languages.
+
+To prevent having much single files with only few rules, they are combined in a one file per Project/Oranisation.
+
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig) (C++, CSS, HTML, JS, Java, Lisp, Objective-C, Python, R, Shell, XML)
  * [Joomla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/joomla.editorconfig) (PHP, HTML, CSS, JS)
  * [Mozilla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/mozilla.editorconfig) (Python, Java, SVG)
  * [Wordpress](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/wordpress.editorconfig) (PHP, HTML, CSS, JS)
 
+### C++
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+
+### CSS
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+
+### HTML
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+
 ### Java
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [Oracle](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/java/oracle.editorconfig)
 
 ### Javascript
  * [Douglas Crockford](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/crockford.editorconfig)
- * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/google.editorconfig)
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+
+### Lisp
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+
+### Objective-C
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
 
 ### Perl
  * [Perl (Official)](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/perl/perl.editorconfig)
@@ -30,7 +51,17 @@ It is intended to make it easier for developers to include them in their project
  * [Zend](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/php/zend.editorconfig)
 
 ### Python
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [Python (Official)](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/python/python.editorconfig)
+
+### R
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+
+### Shell
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+
+### XML
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
 
 
 ## License
@@ -40,7 +71,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford, Google) and General (Wordpress, Joomla) coding standards
+ * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford) and General (Wordpress, Joomla, Google) coding standards
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
  * 2016-06-25 - Add Zend and Mozilla coding standard
  * 2016-06-24 - Add PSR-1 and PSR-2 coding standard
