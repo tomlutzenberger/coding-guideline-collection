@@ -4,7 +4,8 @@ This is a collection of `.editorconfig` Files, which follow common coding guidel
 It is intended to make it easier for developers to include them in their projects and therefore make life easier.
 
 ## Editorconfig Rules
-The following rules are currently supported in all plugins:
+
+### The following rules are currently supported in all plugins:
 
  * indent_style
  * indent_size
@@ -14,7 +15,7 @@ The following rules are currently supported in all plugins:
  * trim_trailing_whitespace
  * insert_final_newline
 
-Supported By A Limited Number of Editors (Emacs, Vim):
+### Supported By A Limited Number of Editors (Emacs, Vim):
 
  * max_line_length
 
