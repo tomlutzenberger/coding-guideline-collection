@@ -7,15 +7,15 @@ It is intended to make it easier for developers to include them in their project
 ## Included Languages and Guidelines
 
 ### General (Projects or Organisations using multiple languages)
- * [Joomla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/joomla.editorconfig)
- * [Mozilla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/mozilla.editorconfig)
- * [Wordpress](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/wordpress.editorconfig)
+ * [Joomla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/joomla.editorconfig) (PHP, HTML, CSS, JS)
+ * [Mozilla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/mozilla.editorconfig) (Python, Java, SVG)
+ * [Wordpress](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/wordpress.editorconfig) (PHP, HTML, CSS, JS)
 
 ### Java
  * [Oracle](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/java/oracle.editorconfig)
 
 ### Javascript
- * [Crockford](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/crockford.editorconfig)
+ * [Douglas Crockford](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/crockford.editorconfig)
 
 ### Perl
  * [Perl (Official)](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/perl/perl.editorconfig)
