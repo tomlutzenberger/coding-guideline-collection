@@ -30,7 +30,7 @@ To prevent having much single files with only few rules, they are combined in a 
 
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig) (C++, CSS, HTML, JS, Java, Lisp, Objective-C, Python, R, Shell, XML)
  * [Joomla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/joomla.editorconfig) (PHP, HTML, CSS, JS)
- * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/jquery.editorconfig) (JS, HTML, CSS))
+ * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig) (JS, HTML, CSS))
  * [Mozilla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/mozilla.editorconfig) (Python, Java, SVG)
  * [Wordpress](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/wordpress.editorconfig) (PHP, HTML, CSS, JS)
 
@@ -42,11 +42,11 @@ To prevent having much single files with only few rules, they are combined in a 
 
 ### CSS
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
- * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/jquery.editorconfig)
+ * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
 
 ### HTML
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
- * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/jquery.editorconfig)
+ * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
 
 ### Java
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
@@ -55,7 +55,7 @@ To prevent having much single files with only few rules, they are combined in a 
 ### Javascript
  * [Douglas Crockford](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/crockford.editorconfig)
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
- * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/jquery.editorconfig)
+ * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
 
 ### Lisp
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
