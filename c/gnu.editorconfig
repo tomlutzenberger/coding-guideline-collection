@@ -1,0 +1,13 @@
+;
+; Editorconfig for GNU C coding standard
+;
+; For details see:
+; http://www.gnu.org/prep/standards/standards.html
+;
+
+
+[*.{c,h}]
+indent_style = space
+indent_size = 2
+charset = utf-8
+max_line_length = 79
