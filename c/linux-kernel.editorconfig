@@ -1,0 +1,14 @@
+;
+; Editorconfig for Linux Kernel coding standard
+;
+; For details see:
+; http://lxr.linux.no/linux/Documentation/CodingStyle
+;
+
+
+[*.{c,h}]
+indent_style = tab
+indent_size = tab
+tab_width = 8
+trim_trailing_whitespace = true
+max_line_length = 80

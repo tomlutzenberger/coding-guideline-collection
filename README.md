@@ -37,6 +37,7 @@ To prevent having much single files with only few rules, they are combined in a 
 ### C
  * [Apache](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/c/apache.editorconfig)
  * [GNU](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/c/gnu.editorconfig)
+ * [Linux Kernel](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/c/linux-kernel.editorconfig)
 
 ### C++
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
@@ -102,7 +103,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-06-28 - Add Erlang and GNU C coding standard
+ * 2016-06-28 - Add Erlang, GNU C and Linux Kernel coding standard
  * 2016-06-27 - Add several coding standards (General, C, JavaScript, PHP, Ruby)
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
  * 2016-06-25 - Add Zend and Mozilla coding standard
