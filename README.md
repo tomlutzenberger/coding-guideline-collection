@@ -16,6 +16,7 @@ It is intended to make it easier for developers to include them in their project
 
 ### Javascript
  * [Douglas Crockford](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/crockford.editorconfig)
+ * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/google.editorconfig)
 
 ### Perl
  * [Perl (Official)](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/perl/perl.editorconfig)
@@ -39,7 +40,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford) and General (Wordpress, Joomla) coding standards
+ * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford, Google) and General (Wordpress, Joomla) coding standards
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
  * 2016-06-25 - Add Zend and Mozilla coding standard
  * 2016-06-24 - Add PSR-1 and PSR-2 coding standard

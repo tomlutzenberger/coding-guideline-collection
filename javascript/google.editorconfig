@@ -1,0 +1,15 @@
+;
+; Editorconfig for Google's JavaScript coding standard
+;
+; For details see:
+; https://google.github.io/styleguide/javascriptguide.xml
+;
+
+
+[*.js]
+indent_style = space
+indent_size = 4
+
+
+; Supported By A Limited Number of Editors
+max_line_length = 80
