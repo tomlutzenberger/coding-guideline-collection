@@ -1,0 +1,12 @@
+;
+; Editorconfig for Ruby coding standard by Ian Macdonald
+;
+; For details see:
+; http://www.caliban.org/ruby/rubyguide.shtml
+;
+
+
+[*.rb]
+indent_style = space
+indent_size = 2
+max_line_length = 80

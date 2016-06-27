@@ -74,6 +74,9 @@ To prevent having much single files with only few rules, they are combined in a 
 ### R
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
 
+### Ruby
+ * [Ian Macdonald](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/ruby/caliban.editorconfig)
+
 ### Shell
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
 
@@ -88,7 +91,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford) and General (Wordpress, Joomla, Google) coding standards
+ * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford), Ruby (by Ian Macdonald) and General (Wordpress, Joomla, Google) coding standards
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
  * 2016-06-25 - Add Zend and Mozilla coding standard
  * 2016-06-24 - Add PSR-1 and PSR-2 coding standard
