@@ -1,0 +1,17 @@
+;
+; Editorconfig for ABCXYZ coding standard
+;
+; For details see:
+; https://domain.com
+;
+
+
+[*.file]
+indent_style = tab|space
+indent_size = int|tab
+tab_width = +int
+end_of_line = lf|crlf|cr
+charset = utf-8|utf-16be|utf-16le|latin1
+trim_trailing_whitespace = true|false
+insert_final_newline = true|false
+max_line_length = +int|off
