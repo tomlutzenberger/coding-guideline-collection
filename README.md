@@ -44,6 +44,9 @@ To prevent having much single files with only few rules, they are combined in a 
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
 
+### Erlang
+ * [Erlang](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/erlang/erlang.editorconfig)
+
 ### HTML
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
@@ -98,6 +101,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
+ * 2016-06-28 - Add Erlang coding standard
  * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford), Ruby (by Ian Macdonald), C (Apache) and General (Wordpress, Joomla, Google, jQuery) coding standards
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
  * 2016-06-25 - Add Zend and Mozilla coding standard
