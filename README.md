@@ -20,6 +20,7 @@ It is intended to make it easier for developers to include them in their project
  * [PEAR](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/php/pear.editorconfig)
  * [PSR-1](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/php/psr-1.editorconfig)
  * [PSR-2](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/php/psr-2.editorconfig)
+ * [Typo3](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/php/typo3.editorconfig)
  * [Zend](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/php/zend.editorconfig)
 
 ### Python
@@ -33,7 +34,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-06-27 - Add Drupal PHP coding standard
+ * 2016-06-27 - Add Drupal PHP and Typo3 PHP coding standard
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
  * 2016-06-25 - Add Zend and Mozilla coding standard
  * 2016-06-24 - Add PSR-1 and PSR-2 coding standard
