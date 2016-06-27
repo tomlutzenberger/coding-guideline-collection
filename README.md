@@ -102,7 +102,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 ## Changelog
 
  * 2016-06-28 - Add Erlang coding standard
- * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford), Ruby (by Ian Macdonald), C (Apache) and General (Wordpress, Joomla, Google, jQuery) coding standards
+ * 2016-06-27 - Add several coding standards (General, C, JavaScript, PHP, Ruby)
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
  * 2016-06-25 - Add Zend and Mozilla coding standard
  * 2016-06-24 - Add PSR-1 and PSR-2 coding standard
