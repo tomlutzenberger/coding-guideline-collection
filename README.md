@@ -30,6 +30,7 @@ To prevent having much single files with only few rules, they are combined in a 
 
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig) (C++, CSS, HTML, JS, Java, Lisp, Objective-C, Python, R, Shell, XML)
  * [Joomla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/joomla.editorconfig) (PHP, HTML, CSS, JS)
+ * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/jquery.editorconfig) (JS, HTML, CSS))
  * [Mozilla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/mozilla.editorconfig) (Python, Java, SVG)
  * [Wordpress](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/wordpress.editorconfig) (PHP, HTML, CSS, JS)
 
@@ -41,9 +42,11 @@ To prevent having much single files with only few rules, they are combined in a 
 
 ### CSS
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+ * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/jquery.editorconfig)
 
 ### HTML
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+ * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/jquery.editorconfig)
 
 ### Java
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
@@ -52,6 +55,7 @@ To prevent having much single files with only few rules, they are combined in a 
 ### Javascript
  * [Douglas Crockford](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/crockford.editorconfig)
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+ * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/jquery.editorconfig)
 
 ### Lisp
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
@@ -94,7 +98,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford), Ruby (by Ian Macdonald), C (Apache) and General (Wordpress, Joomla, Google) coding standards
+ * 2016-06-27 - Add PHP (Drupal, Typo3), Javascript (by Douglas Crockford), Ruby (by Ian Macdonald), C (Apache) and General (Wordpress, Joomla, Google, jQuery) coding standards
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
  * 2016-06-25 - Add Zend and Mozilla coding standard
  * 2016-06-24 - Add PSR-1 and PSR-2 coding standard
