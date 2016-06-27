@@ -1,0 +1,38 @@
+;
+; Editorconfig for Joomla coding standard
+;
+; For details see:
+; https://joomla.github.io/coding-standards/
+;
+
+
+[*]
+indent_style = tab
+indent_size = tab
+tab_width = 4
+end_of_line = lf
+charset = utf-8
+
+; Supported By A Limited Number of Editors
+; "There is no maximum limit for line lengths in files, however, a notional value of about 150 characters is recommended [...]."
+max_line_length = 150
+
+
+[*.php]
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+
+[*.html]
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
+
+
+[*.css]
+; See global rule [*]
+
+
+[*.js]
+trim_trailing_whitespace = true
+insert_final_newline = true
