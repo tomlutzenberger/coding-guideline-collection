@@ -23,7 +23,7 @@ tab_width = [+int]
 end_of_line = ['lf'|'crlf'|'cr']
 
 ; File character encoding
-charset = ['latin1'|'utf-8'|'utf-16b'e|'utf-16le']
+charset = ['latin1'|'utf-8'|'utf-16be|'utf-16le']
 
 ; Denotes whether whitespace is allowed at the end of lines
 trim_trailing_whitespace = [true|false]
