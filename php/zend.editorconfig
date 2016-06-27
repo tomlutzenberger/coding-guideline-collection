@@ -6,8 +6,6 @@
 ;
 
 
-; Only use *.php
-; See http://framework.zend.com/manual/1.12/en/coding-standard.naming-conventions.html#coding-standard.naming-conventions.filenames
 [*.php]
 indent_style = space
 indent_size = 4

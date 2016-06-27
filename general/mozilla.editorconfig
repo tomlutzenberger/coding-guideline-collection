@@ -6,7 +6,6 @@
 ;
 
 
-
 [*]
 indent_style = space
 indent_size = 2
@@ -16,15 +15,12 @@ insert_final_newline = true
 max_line_length = 80
 
 
-
 [*.py]
 indent_size = 2
 
 
-
 [*.java]
 ; Use the Java coding standard
-
 
 
 [*.svg]

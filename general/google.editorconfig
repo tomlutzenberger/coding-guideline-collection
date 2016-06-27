@@ -6,8 +6,6 @@
 ;
 
 
-
-; https://google.github.io/styleguide/cppguide.html
 [*.{cc,h,inc}]
 indent_style = space
 indent_size = 2
@@ -17,8 +15,6 @@ trim_trailing_whitespace = true
 max_line_length = 80
 
 
-
-; https://google.github.io/styleguide//htmlcssguide.xml
 [*.{html,css}]
 indent_style = space
 indent_size = 2
@@ -26,8 +22,6 @@ charset = utf-8
 trim_trailing_whitespace = true
 
 
-
-; https://google.github.io/styleguide/javaguide.html
 [*.java]
 indent_style = space
 indent_size = 2
@@ -38,24 +32,18 @@ trim_trailing_whitespace = true
 max_line_length = 80
 
 
-
-; https://google.github.io/styleguide/javascriptguide.xml
 [*.js]
 indent_style = space
 indent_size = 4
 max_line_length = 80
 
 
-
-; https://google.github.io/styleguide/lispguide.xml
 [*.lisp]
 ; "Indent your code the way a properly configured GNU Emacs does."
 indent_style = space
 max_line_length = 100
 
 
-
-; https://google.github.io/styleguide/objcguide.xml
 [*.{m,h}]
 indent_style = space
 indent_size = 2
@@ -63,32 +51,24 @@ indent_size = 2
 max_line_length = 100
 
 
-
-; https://google.github.io/styleguide//pyguide.xml
 [*.py]
 indent_style = space
 indent_size = 4
 max_line_length = 80
 
 
-
-; https://google.github.io/styleguide//Rguide.xml
 [*.R]
 indent_style = space
 indent_size = 2
 max_line_length = 80
 
 
-
-; https://google.github.io/styleguide//shell.xml
 [*.sh]
 indent_style = space
 indent_size = 2
 max_line_length = 80
 
 
-
-; https://google.github.io/styleguide//xmlstyle.xml
 [*.xml]
 indent_style = space
 indent_size = 2

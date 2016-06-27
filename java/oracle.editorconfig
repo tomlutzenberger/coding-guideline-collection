@@ -6,7 +6,6 @@
 ;
 
 
-; Support for older PHP versions
 [*.java]
 ; "Four spaces should be used as the unit of indentation. The exact construction of the indentation (spaces vs. tabs) is unspecified."
 indent_style = space

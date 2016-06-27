@@ -1,11 +1,8 @@
 ;
-; Editorconfig for Wordpress coding standard
+; Editorconfig for Wordpress coding standards
 ;
 ; For details see:
-; https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
-; https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/
-; https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
-; https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/ (Follows jQuery)
+; https://make.wordpress.org/core/handbook/best-practices/coding-standards/
 ;
 
 
