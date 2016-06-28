@@ -31,6 +31,7 @@ To prevent having much single files with only few rules, they are combined in a 
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig) (C++, CSS, HTML, JS, Java, Lisp, Objective-C, Python, R, Shell, XML)
  * [Joomla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/joomla.editorconfig) (PHP, HTML, CSS, JS)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig) (JS, HTML, CSS))
+ * [Microsoft](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/microsoft.editorconfig) (C#, Visual Basic)
  * [Mozilla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/mozilla.editorconfig) (Python, Java, SVG)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/okfn.editorconfig) (CSS, HTML, JS, Python)
  * [Wordpress](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/wordpress.editorconfig) (PHP, HTML, CSS, JS)
@@ -43,6 +44,9 @@ To prevent having much single files with only few rules, they are combined in a 
 
 ### C++
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+
+### C#
+ * [Microsoft](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/microsoft.editorconfig)
 
 ### CSS
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
@@ -98,6 +102,9 @@ To prevent having much single files with only few rules, they are combined in a 
 ### Shell
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
 
+### Visual Basic
+ * [Microsoft](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/microsoft.editorconfig)
+
 ### XML
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
 
@@ -109,6 +116,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
+ * 2016-06-29 - Add Microsoft coding standards
  * 2016-06-28 - Add Erlang, GNU C, Linux Kernel, Open Knowledge Foundation and Embedded C coding standards
  * 2016-06-27 - Add several coding standards (General, C, JavaScript, PHP, Ruby)
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
