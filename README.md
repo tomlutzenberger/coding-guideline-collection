@@ -32,6 +32,7 @@ To prevent having much single files with only few rules, they are combined in a 
  * [Joomla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/joomla.editorconfig) (PHP, HTML, CSS, JS)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig) (JS, HTML, CSS))
  * [Mozilla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/mozilla.editorconfig) (Python, Java, SVG)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/okfn.editorconfig) (CSS, HTML, JS, Python)
  * [Wordpress](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/wordpress.editorconfig) (PHP, HTML, CSS, JS)
 
 ### C
@@ -45,6 +46,7 @@ To prevent having much single files with only few rules, they are combined in a 
 ### CSS
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/okfn.editorconfig)
 
 ### Erlang
  * [Erlang](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/erlang/erlang.editorconfig)
@@ -52,6 +54,7 @@ To prevent having much single files with only few rules, they are combined in a 
 ### HTML
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/okfn.editorconfig)
 
 ### Java
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
@@ -61,6 +64,7 @@ To prevent having much single files with only few rules, they are combined in a 
  * [Douglas Crockford](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/crockford.editorconfig)
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/okfn.editorconfig)
 
 ### Lisp
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
@@ -81,6 +85,7 @@ To prevent having much single files with only few rules, they are combined in a 
 
 ### Python
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/okfn.editorconfig)
  * [Python (Official)](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/python/python.editorconfig)
 
 ### R
@@ -103,7 +108,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-06-28 - Add Erlang, GNU C and Linux Kernel coding standard
+ * 2016-06-28 - Add Erlang, GNU C, Linux Kernel and Open Knowledge Foundation coding standards
  * 2016-06-27 - Add several coding standards (General, C, JavaScript, PHP, Ruby)
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
  * 2016-06-25 - Add Zend and Mozilla coding standard
