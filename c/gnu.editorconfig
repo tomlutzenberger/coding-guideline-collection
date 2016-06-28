@@ -1,9 +1,9 @@
-;
-; Editorconfig for GNU C coding standard
-;
-; For details see:
-; http://www.gnu.org/prep/standards/standards.html
-;
+#
+# Editorconfig for GNU C coding standard
+#
+# For details see:
+# http://www.gnu.org/prep/standards/standards.html
+#
 
 
 [*.{c,h}]

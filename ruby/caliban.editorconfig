@@ -1,9 +1,9 @@
-;
-; Editorconfig for Ruby coding standard by Ian Macdonald
-;
-; For details see:
-; http://www.caliban.org/ruby/rubyguide.shtml
-;
+#
+# Editorconfig for Ruby coding standard by Ian Macdonald
+#
+# For details see:
+# http://www.caliban.org/ruby/rubyguide.shtml
+#
 
 
 [*.rb]

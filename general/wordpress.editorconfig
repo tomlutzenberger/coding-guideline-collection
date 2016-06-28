@@ -1,9 +1,9 @@
-;
-; Editorconfig for Wordpress coding standards
-;
-; For details see:
-; https://make.wordpress.org/core/handbook/best-practices/coding-standards/
-;
+#
+# Editorconfig for Wordpress coding standards
+#
+# For details see:
+# https://make.wordpress.org/core/handbook/best-practices/coding-standards/
+#
 
 
 [*.php]
@@ -22,5 +22,5 @@ indent_style = tab
 [*.js]
 indent_style = tab
 trim_trailing_whitespace = true
-; "jQuery’s 100-character hard line limit is encouraged, but not strictly enforced."
+# "jQuery’s 100-character hard line limit is encouraged, but not strictly enforced."
 max_line_length = 100

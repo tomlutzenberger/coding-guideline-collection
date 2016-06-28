@@ -1,9 +1,9 @@
-;
-; Editorconfig for JavaScript by Douglas Crockford
-;
-; For details see:
-; http://javascript.crockford.com/code.html
-;
+#
+# Editorconfig for JavaScript by Douglas Crockford
+#
+# For details see:
+# http://javascript.crockford.com/code.html
+#
 
 
 [*.js]

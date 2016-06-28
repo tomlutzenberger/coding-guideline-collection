@@ -1,9 +1,9 @@
-;
-; Editorconfig for Mozilla coding standard
-;
-; For details see:
-; https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
-;
+#
+# Editorconfig for Mozilla coding standard
+#
+# For details see:
+# https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
+#
 
 
 [*]
@@ -20,8 +20,8 @@ indent_size = 2
 
 
 [*.java]
-; Use the Java coding standard
+# Use the Java coding standard
 
 
 [*.svg]
-; Use the SVG coding standard
+# Use the SVG coding standard

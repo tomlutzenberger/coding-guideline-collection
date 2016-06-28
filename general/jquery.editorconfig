@@ -1,9 +1,9 @@
-;
-; Editorconfig for jQuery coding standards
-;
-; For details see:
-; http://contribute.jquery.org/style-guide/
-;
+#
+# Editorconfig for jQuery coding standards
+#
+# For details see:
+# http://contribute.jquery.org/style-guide/
+#
 
 
 [*.js]
@@ -12,7 +12,7 @@ indent_size = tab
 tab_width = 4
 trim_trailing_whitespace = true
 insert_final_newline = true
-; "Lines should be no longer than 80 characters, and must not exceed 100 (counting tabs as 4 spaces)."
+# "Lines should be no longer than 80 characters, and must not exceed 100 (counting tabs as 4 spaces)."
 max_line_length = 100
 
 

@@ -1,6 +1,6 @@
-;
-; Editorconfig for the Guideline Collection itself
-;
+#
+# Editorconfig for the Guideline Collection itself
+#
 
 root = true
 

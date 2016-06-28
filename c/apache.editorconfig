@@ -1,9 +1,9 @@
-;
-; Editorconfig for Apache's C coding standard
-;
-; For details see:
-; http://httpd.apache.org/dev/styleguide.html
-;
+#
+# Editorconfig for Apache's C coding standard
+#
+# For details see:
+# http://httpd.apache.org/dev/styleguide.html
+#
 
 
 [*.{c,h}]

@@ -1,9 +1,9 @@
-;
-; Editorconfig for ABCXYZ coding standard
-;
-; For details see:
-; https://domain.com
-;
+#
+# Editorconfig for ABCXYZ coding standard
+#
+# For details see:
+# https://domain.com
+#
 
 
 [*.file]

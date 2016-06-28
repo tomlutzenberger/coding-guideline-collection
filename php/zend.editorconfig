@@ -1,9 +1,9 @@
-;
-; Editorconfig for Zend coding standard
-;
-; For details see:
-; http://framework.zend.com/manual/1.12/en/coding-standard.php-file-formatting.html
-;
+#
+# Editorconfig for Zend coding standard
+#
+# For details see:
+# http://framework.zend.com/manual/1.12/en/coding-standard.php-file-formatting.html
+#
 
 
 [*.php]

@@ -1,13 +1,14 @@
-;
-; Editorconfig for Oracle Java coding standard
-;
-; For details see:
-; http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
-;
+#
+# Editorconfig for Oracle Java coding standard
+#
+# For details see:
+# http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
+#
 
 
 [*.java]
-; "Four spaces should be used as the unit of indentation. The exact construction of the indentation (spaces vs. tabs) is unspecified."
+# "Four spaces should be used as the unit of indentation.
+#  The exact construction of the indentation (spaces vs. tabs) is unspecified."
 indent_style = space
 indent_size = 4
 max_line_length = 80

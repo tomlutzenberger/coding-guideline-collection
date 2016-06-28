@@ -1,14 +1,14 @@
-;
-; Editorconfig for PSR-2 coding standard
-; Includes PSR-1
-;
-; For details see:
-; http://www.php-fig.org/psr/psr-2/
-; https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
-;
+#
+# Editorconfig for PSR-2 coding standard
+# Includes PSR-1
+#
+# For details see:
+# http://www.php-fig.org/psr/psr-2/
+# https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
+#
 
 
-; Support for older PHP versions
+# Support for older PHP versions
 [*.{php,php3,php4,php5}]
 indent_style = space
 indent_size = 4

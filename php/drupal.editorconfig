@@ -1,9 +1,9 @@
-;
-; Editorconfig for Drupal PHP coding standard
-;
-; For details see:
-; https://www.drupal.org/coding-standards
-;
+#
+# Editorconfig for Drupal PHP coding standard
+#
+# For details see:
+# https://www.drupal.org/coding-standards
+#
 
 
 [*.php]

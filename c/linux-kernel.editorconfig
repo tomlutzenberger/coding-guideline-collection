@@ -1,9 +1,9 @@
-;
-; Editorconfig for Linux Kernel coding standard
-;
-; For details see:
-; http://lxr.linux.no/linux/Documentation/CodingStyle
-;
+#
+# Editorconfig for Linux Kernel coding standard
+#
+# For details see:
+# http://lxr.linux.no/linux/Documentation/CodingStyle
+#
 
 
 [*.{c,h}]

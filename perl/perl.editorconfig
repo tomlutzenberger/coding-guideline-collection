@@ -1,9 +1,9 @@
-;
-; Editorconfig for Perl coding standard
-;
-; For details see:
-; http://perldoc.perl.org/perlstyle.html
-;
+#
+# Editorconfig for Perl coding standard
+#
+# For details see:
+# http://perldoc.perl.org/perlstyle.html
+#
 
 
 [*.pl]

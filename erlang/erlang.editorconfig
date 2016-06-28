@@ -1,12 +1,13 @@
-;
-; Editorconfig for Erlang coding standard
-;
-; For details see:
-; http://www.erlang.se/doc/programming_rules.shtml
-;
+#
+# Editorconfig for Erlang coding standard
+#
+# For details see:
+# http://www.erlang.se/doc/programming_rules.shtml
+#
 
 
 [*.erl]
-; "Different people have different styles concerning indentation, usage of spaces etc. [...] Once you have adopted style - stick to it."
-; indent_style = tab|space ?
+# "Different people have different styles concerning indentation, usage of spaces etc.
+#  [...] Once you have adopted style - stick to it."
+# indent_style = tab|space ?
 max_line_length = 80

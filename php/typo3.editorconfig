@@ -1,10 +1,10 @@
-;
-; Editorconfig for Typo3 PHP coding standard
-; Follows PSR-2
-;
-; For details see:
-; https://docs.typo3.org/typo3cms/CodingGuidelinesReference/PhpFileFormatting/GeneralRequirementsForPhpFiles/Index.html
-;
+#
+# Editorconfig for Typo3 PHP coding standard
+# Follows PSR-2
+#
+# For details see:
+# https://docs.typo3.org/typo3cms/CodingGuidelinesReference/PhpFileFormatting/GeneralRequirementsForPhpFiles/Index.html
+#
 
 
 [*.php]
