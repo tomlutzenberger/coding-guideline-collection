@@ -74,6 +74,10 @@ To prevent having much single files with only few rules, they are combined in a 
 ### Lisp
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
 
+### MATLAB
+ * [MATLAB](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/matlab/matlab.editorconfig)
+ * [Cornell University](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/matlab/cornell-university.editorconfig)
+
 ### Objective-C
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
 
@@ -116,7 +120,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-06-29 - Add Microsoft coding standards
+ * 2016-06-29 - Add Microsoft and MATLAB coding standards
  * 2016-06-28 - Add Erlang, GNU C, Linux Kernel, Open Knowledge Foundation and Embedded C coding standards
  * 2016-06-27 - Add several coding standards (General, C, JavaScript, PHP, Ruby)
  * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard

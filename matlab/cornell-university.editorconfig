@@ -1,0 +1,11 @@
+#
+# Editorconfig for MATLAB coding standard (by Cornell University)
+#
+# For details see:
+# http://www.cs.cornell.edu/courses/cs321/2003fa/Matlab%20Coding%20Style.pdf
+#
+
+
+[*.m]
+indent_style = space
+indent_size = 3
