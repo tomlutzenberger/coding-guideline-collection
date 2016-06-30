@@ -43,6 +43,7 @@ To prevent having much single files with only few rules, they are combined in a 
  * [Linux Kernel](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/c/linux-kernel.editorconfig)
 
 ### C++
+ * [Geosoft](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/c++/geosoft.editorconfig)
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
 
 ### C#
@@ -120,6 +121,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
+ * 2016-06-30 - Add Geosoft C++ coding standard
  * 2016-06-29 - Add Microsoft and MATLAB coding standards
  * 2016-06-28 - Add Erlang, GNU C, Linux Kernel, Open Knowledge Foundation and Embedded C coding standards
  * 2016-06-27 - Add several coding standards (General, C, JavaScript, PHP, Ruby)
