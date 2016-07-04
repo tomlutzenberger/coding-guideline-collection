@@ -28,6 +28,7 @@ These are `.editorconfig` Files, which contain coding standards of Projects or O
 
 To prevent having much single files with only few rules, they are combined in a one file per Project/Oranisation.
 
+ * [Bootstrap](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/bootstrap.editorconfig) (CSS, HTML, JS, LESS, SASS)
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig) (C++, CSS, HTML, JS, Java, Lisp, Objective-C, Python, R, Shell, XML)
  * [Joomla](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/joomla.editorconfig) (PHP, HTML, CSS, JS)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig) (JS, HTML, CSS))
@@ -50,6 +51,7 @@ To prevent having much single files with only few rules, they are combined in a 
  * [Microsoft](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/microsoft.editorconfig)
 
 ### CSS
+ * [Bootstrap](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/bootstrap.editorconfig)
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/okfn.editorconfig)
@@ -58,6 +60,7 @@ To prevent having much single files with only few rules, they are combined in a 
  * [Erlang](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/erlang/erlang.editorconfig)
 
 ### HTML
+ * [Bootstrap](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/bootstrap.editorconfig)
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/okfn.editorconfig)
@@ -67,10 +70,14 @@ To prevent having much single files with only few rules, they are combined in a 
  * [Oracle](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/java/oracle.editorconfig)
 
 ### Javascript
+ * [Bootstrap](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/bootstrap.editorconfig)
  * [Douglas Crockford](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/javascript/crockford.editorconfig)
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
  * [jQuery](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/jquery.editorconfig)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/okfn.editorconfig)
+
+### LESS
+ * [Bootstrap](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/bootstrap.editorconfig)
 
 ### Lisp
  * [Google](https://github.com/tomlutzenberger/editorconfig-guideline-collection/blob/master/general/google.editorconfig)
@@ -121,6 +128,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
+ * 2016-07-04 - Add Bootstrap coding standard
  * 2016-06-30 - Add Geosoft C++ coding standard
  * 2016-06-29 - Add Microsoft and MATLAB coding standards
  * 2016-06-28 - Add Erlang, GNU C, Linux Kernel, Open Knowledge Foundation and Embedded C coding standards
