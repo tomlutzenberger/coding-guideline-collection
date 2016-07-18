@@ -1,124 +1,130 @@
-# Editorconfig Guideline Collection
+# Coding Guideline Collection
 
-This is a collection of `.editorconfig` Files, which follow common coding guidelines.
-It is intended to make it easier for developers to include them in their projects and therefore make life easier.
+This is a collection of files, which follow common coding guidelines.
 
-## Editorconfig Rules
+It is intended to make developers life easier and code more beautiful.
 
-### The following rules are currently supported in all plugins:
 
- * indent_style
- * indent_size
- * tab_width
- * end_of_line
- * charset
- * trim_trailing_whitespace
- * insert_final_newline
+## Supported Files
 
-### Supported By A Limited Number of Editors (Emacs, Vim):
+ * [EditorConfig](http://editorconfig.org/) - ([Docs](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties))
+ * [HTMLHint](http://htmlhint.com/) - ([Docs](https://github.com/yaniswang/HTMLHint/wiki/Rules))
+ * [CSSLint](http://csslint.net/) - ([Docs](https://github.com/CSSLint/csslint/wiki/Rules))
+ * [CSSComb](http://csscomb.com/)
+ * [JSHint](http://jshint.com/) - ([Docs](http://jshint.com/docs/))
+ * [JSCS (includes ESLint now)](http://jscs.info/) - ([Docs](http://jscs.info/rules))
 
- * max_line_length
 
-For details, see [EditorConfig Wiki: Properties](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
-
-## Included Languages and Guidelines
+## Languages and Guidelines
 
 ### General
-These are `.editorconfig` Files, which contain coding standards of Projects or Organisations using multiple languages.
+Projects or Organisations using multiple languages.
 
-To prevent having much single files with only few rules, they are combined in a one file per Project/Oranisation.
+To prevent having a bunch of files with only few rules, they are combined in one single file per Project/Oranisation.
 
- * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/.editorconfig) (CSS, HTML, JS, LESS, SASS)
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig) (C++, CSS, HTML, JS, Java, Lisp, Objective-C, Python, R, Shell, XML)
- * [Joomla](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/joomla/.editorconfig) (PHP, HTML, CSS, JS)
- * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/jquery/.editorconfig) (JS, HTML, CSS))
- * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/microsoft/.editorconfig) (C#, Visual Basic)
- * [Mozilla](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/mozilla/.editorconfig) (Python, Java, SVG)
- * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/.editorconfig) (CSS, HTML, JS, Python)
- * [Wordpress](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/wordpress/.editorconfig) (PHP, HTML, CSS, JS)
+ * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/) (CSS, HTML, JS, LESS, SASS)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/) (C++, CSS, HTML, JS, Java, Lisp, Objective-C, Python, R, Shell, XML)
+ * [Joomla](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/joomla/) (PHP, HTML, CSS, JS)
+ * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/jquery/) (JS, HTML, CSS))
+ * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/microsoft/) (C#, Visual Basic)
+ * [Mozilla](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/mozilla/) (Python, Java, SVG)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/) (CSS, HTML, JS, Python)
+ * [Wordpress](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/wordpress/) (PHP, HTML, CSS, JS)
 
 ### C
- * [Apache](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c/apache/.editorconfig)
- * [Embedded C](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c/embedded-c/.editorconfig)
- * [GNU](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c/gnu/.editorconfig)
- * [Linux Kernel](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c/linux-kernel/.editorconfig)
+ * [Apache](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c/apache/)
+ * [Embedded C](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c/embedded-c/)
+ * [GNU](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c/gnu/)
+ * [Linux Kernel](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c/linux-kernel/)
 
 ### C++
- * [Geosoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c++/geosoft/.editorconfig)
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
+ * [Geosoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/c++/geosoft/)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
 
 ### C#
- * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/microsoft/.editorconfig)
+ * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/microsoft/)
 
 ### CSS
- * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/.editorconfig)
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
- * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/jquery/.editorconfig)
- * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/.editorconfig)
+ * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
+ * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/jquery/)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/)
 
 ### Erlang
- * [Erlang (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/erlang/erlang-official/.editorconfig)
+ * [Erlang (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/erlang/erlang-official/)
 
 ### HTML
- * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/.editorconfig)
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
- * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/jquery/.editorconfig)
- * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/.editorconfig)
+ * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
+ * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/jquery/)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/)
 
 ### Java
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
- * [Oracle](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/java/oracle/.editorconfig)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
+ * [Oracle](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/java/oracle/)
 
 ### Javascript
- * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/.editorconfig)
- * [Douglas Crockford](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/javascript/douglas-crockford/.editorconfig)
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
- * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/jquery/.editorconfig)
- * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/.editorconfig)
+ * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/)
+ * [Douglas Crockford](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/javascript/douglas-crockford/)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
+ * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/jquery/)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/)
 
 ### LESS
- * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/.editorconfig)
+ * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/bootstrap/)
 
 ### Lisp
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
 
 ### MATLAB
- * [Cornell University](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/matlab/cornell-university/.editorconfig)
- * [MATLAB (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/matlab/matlab-official/.editorconfig)
+ * [Cornell University](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/matlab/cornell-university/)
+ * [MATLAB (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/matlab/matlab-official/)
 
 ### Objective-C
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
 
 ### Perl
- * [Perl (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/perl/perl-official/.editorconfig)
+ * [Perl (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/perl/perl-official/)
 
 ### PHP
- * [Drupal](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/drupal/.editorconfig)
- * [PEAR](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/pear/.editorconfig)
- * [PSR-1](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/psr-1/.editorconfig)
- * [PSR-2](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/psr-2/.editorconfig)
- * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/typo3/.editorconfig)
- * [Zend](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/zend/.editorconfig)
+ * [Drupal](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/drupal/)
+ * [PEAR](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/pear/)
+ * [PSR-1](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/psr-1/)
+ * [PSR-2](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/psr-2/)
+ * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/typo3/)
+ * [Zend](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/zend/)
 
 ### Python
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
- * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/.editorconfig)
- * [Python (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/python/python-official/.editorconfig)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
+ * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/open-knowledge-foundation/)
+ * [Python (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/python/python-official/)
 
 ### R
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
 
 ### Ruby
- * [Ian Macdonald](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/ruby/ian-macdonald/.editorconfig)
+ * [Ian Macdonald](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/ruby/ian-macdonald/)
 
 ### Shell
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
 
 ### Visual Basic
- * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/microsoft/.editorconfig)
+ * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/microsoft/)
 
 ### XML
- * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/.editorconfig)
+ * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/general/google/)
+
+
+## Missing files
+
+If a file you need is missing, let me know by opening a new issue.
+
+You can also create a pull request to provide it yourself.
+
+
+## Attribution
+
+Links to original files or corresponding ressources can be found in the respective files.
 
 
 ## License
@@ -128,7 +134,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-07-19 - Renamed repository, reorganized files
+ * 2016-07-19 - Renamed repository, reorganized files and introduced Linter files (starting with Bootstrap)
  * 2016-07-04 - Add Bootstrap coding standard
  * 2016-06-30 - Add Geosoft C++ coding standard
  * 2016-06-29 - Add Microsoft and MATLAB coding standards
