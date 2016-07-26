@@ -1,0 +1,14 @@
+/*
+ * HTMLHint Rules for Wordpress coding standard
+ *
+ * For details see:
+ * https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/
+ */
+
+{
+  "attr-lowercase": true,
+  "attr-value-not-empty": true,
+  "space-tab-mixed-disabled": tab,
+  "tag-self-close": true,
+  "tagname-lowercase": true,
+}

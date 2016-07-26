@@ -1,0 +1,12 @@
+/*
+ * CSSLint Rules for Wordpress coding standard
+ *
+ * For details see:
+ * https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
+ */
+
+{
+  "adjoining-classes": false,
+  "compatible-vendor-prefixes": true,
+  "zero-units": false,
+}
