@@ -1,0 +1,23 @@
+#
+# Editorconfig for Laravel Framework
+# Laravel follows the PSR-1 coding standard
+#
+# For details see:
+# http://www.php-fig.org/psr/psr-1/
+# https://laravel.com/docs/4.2/contributions
+# https://github.com/laravel/framework/blob/5.3/.editorconfig
+#
+
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
+
+
+[*.php]
+charset = utf-8
+indent_style = tab

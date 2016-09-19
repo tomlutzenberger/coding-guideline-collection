@@ -88,6 +88,7 @@ To prevent having a bunch of files with only few rules, they are combined in one
 
 ### PHP
  * [Drupal](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/drupal/)
+ * [Laravel](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/laravel/)
  * [PEAR](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/pear/)
  * [PSR-1](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/psr-1/)
  * [PSR-2](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php/psr-2/)
@@ -134,6 +135,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
+ * 2016-09-20 - Add Laravel coding standard
  * 2016-07-19 - Renamed repository, reorganized files and introduced Linter files (starting with Bootstrap)
  * 2016-07-04 - Add Bootstrap coding standard
  * 2016-06-30 - Add Geosoft C++ coding standard
