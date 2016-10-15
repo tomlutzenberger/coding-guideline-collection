@@ -38,9 +38,9 @@ To prevent having a bunch of files with only few rules, they are combined in one
  * [Linux Kernel](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/linux-kernel/)
 
 ### C++
- * [Geosoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/geosoft-c%2B%2B/)
+ * [Geosoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/geosoft-c++/)
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
- * [High Intregrity](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/high-intregrity-c%2B%2B/)
+ * [High Integrity](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/high-integrity-c++/)
 
 ### C#
  * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/microsoft/)
