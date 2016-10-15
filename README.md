@@ -9,7 +9,7 @@ It is intended to make developers life easier and code more beautiful.
 
  * [EditorConfig](http://editorconfig.org/) - ([Official Docs](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties))
  * [HTMLHint](http://htmlhint.com/) - ([Official Docs](https://github.com/yaniswang/HTMLHint/wiki/Rules))
- * [CSSLint](http://csslint.net/) - (Official [Docs](https://github.com/CSSLint/csslint/wiki/Rules))
+ * [CSSLint](http://csslint.net/) - ([Official Docs](https://github.com/CSSLint/csslint/wiki/Rules))
  * [CSSComb](http://csscomb.com/)
  * [JSHint](http://jshint.com/) - ([Official Docs](http://jshint.com/docs/))
  * [JSCS (includes ESLint now)](http://jscs.info/) - ([Official Docs](http://jscs.info/rules))
@@ -38,9 +38,9 @@ To prevent having a bunch of files with only few rules, they are combined in one
  * [Linux Kernel](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/linux-kernel/)
 
 ### C++
- * [Geosoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/geosoft-c++/)
+ * [Geosoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/geosoft-c%2B%2B/)
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
- * [High Intregrity](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/high-intregrity-c++/)
+ * [High Intregrity](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/high-intregrity-c%2B%2B/)
 
 ### C#
  * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/microsoft/)
