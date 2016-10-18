@@ -137,13 +137,13 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 ## Changelog
 
  * 2016-10-15 - Restructured directories and files
- * 2016-09-20 - Add Laravel coding standard
+ * 2016-09-20 - Added Laravel coding standard
  * 2016-07-19 - Renamed repository, reorganized files and introduced Linter files (starting with Bootstrap)
- * 2016-07-04 - Add Bootstrap coding standard
- * 2016-06-30 - Add Geosoft C++ coding standard
- * 2016-06-29 - Add Microsoft and MATLAB coding standards
- * 2016-06-28 - Add Erlang, GNU C, Linux Kernel, Open Knowledge Foundation and Embedded C coding standards
- * 2016-06-27 - Add several coding standards (General, C, JavaScript, PHP, Ruby)
- * 2016-06-26 - Add PHP PEAR, Perl, Python and Oracle Java coding standard
- * 2016-06-25 - Add Zend and Mozilla coding standard
- * 2016-06-24 - Add PSR-1 and PSR-2 coding standard
+ * 2016-07-04 - Added Bootstrap coding standard
+ * 2016-06-30 - Added Geosoft C++ coding standard
+ * 2016-06-29 - Added Microsoft and MATLAB coding standards
+ * 2016-06-28 - Added Erlang, GNU C, Linux Kernel, Open Knowledge Foundation and Embedded C coding standards
+ * 2016-06-27 - Added several coding standards (General, C, JavaScript, PHP, Ruby)
+ * 2016-06-26 - Added PHP PEAR, Perl, Python and Oracle Java coding standard
+ * 2016-06-25 - Added Zend and Mozilla coding standard
+ * 2016-06-24 - Added PSR-1 and PSR-2 coding standard
