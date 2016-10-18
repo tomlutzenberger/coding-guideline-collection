@@ -83,6 +83,7 @@ To prevent having a bunch of files with only few rules, they are combined in one
 
 ### Objective-C
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
+ * [Raywenderlich](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/objective-c-raywenderlich/)
 
 ### Perl
  * [Perl (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/perl-official/)
@@ -140,6 +141,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
+ * 2016-10-19 - Added Swift and Objective-C coding standards
  * 2016-10-15 - Restructured directories and files
  * 2016-09-20 - Added Laravel coding standard
  * 2016-07-19 - Renamed repository, reorganized files and introduced Linter files (starting with Bootstrap)

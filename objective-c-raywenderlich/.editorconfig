@@ -1,0 +1,12 @@
+#
+# Editorconfig for Raywenderlich's Objective-C coding standard
+#
+# For details see:
+# https://github.com/raywenderlich/objective-c-style-guide
+#
+
+
+[*.{C,h,m,mm}]
+indent_style = space
+indent_size = 2
+tab_width = 2
