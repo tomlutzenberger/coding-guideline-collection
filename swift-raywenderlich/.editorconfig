@@ -1,0 +1,12 @@
+#
+# Editorconfig for Raywenderlich's Swift coding standard
+#
+# For details see:
+# https://github.com/raywenderlich/swift-style-guide
+#
+
+
+[*.swift]
+indent_style = space
+indent_size = 2
+tab_width = 2

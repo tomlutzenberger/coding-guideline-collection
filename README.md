@@ -110,6 +110,10 @@ To prevent having a bunch of files with only few rules, they are combined in one
 ### Shell
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
 
+### Swift
+ * [Github](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/swift-github/)
+ * [Raywenderlich](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/swift-raywenderlich/)
+
 ### Visual Basic
  * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/microsoft/)
 
