@@ -29,6 +29,7 @@ To prevent having a bunch of files with only few rules, they are combined in one
  * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/microsoft/) (C#, Visual Basic)
  * [Mozilla](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/mozilla/) (Python, Java, SVG)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/open-knowledge-foundation/) (CSS, HTML, JS, Python)
+ * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/) (CSS, HTML, JS/JSON, LESS, PHP, SQL, Typoscript)
  * [Wordpress](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/wordpress/) (PHP, HTML, CSS, JS)
 
 ### C
@@ -50,6 +51,7 @@ To prevent having a bunch of files with only few rules, they are combined in one
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
  * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/jquery/)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/open-knowledge-foundation/)
+ * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/)
 
 ### Erlang
  * [Erlang (Official)](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/erlang-official/)
@@ -59,20 +61,23 @@ To prevent having a bunch of files with only few rules, they are combined in one
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
  * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/jquery/)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/open-knowledge-foundation/)
+ * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/)
 
 ### Java
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
  * [Oracle](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/java-oracle/)
 
-### Javascript
+### Javascript/JSON
  * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/bootstrap/)
  * [Douglas Crockford](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/javascript-douglas-crockford/)
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
  * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/jquery/)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/open-knowledge-foundation/)
+ * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/)
 
 ### LESS
  * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/bootstrap/)
+ * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/)
 
 ### Lisp
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
@@ -111,9 +116,15 @@ To prevent having a bunch of files with only few rules, they are combined in one
 ### Shell
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
 
+### SQL
+ * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/)
+
 ### Swift
  * [Github](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/swift-github/)
  * [Raywenderlich](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/swift-raywenderlich/)
+
+### Typoscript
+ * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/)
 
 ### Visual Basic
  * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/microsoft/)
@@ -141,6 +152,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
+ * 2016-10-25 - Updated Typo3 coding standards
  * 2016-10-19 - Added Swift and Objective-C coding standards
  * 2016-10-15 - Restructured directories and files
  * 2016-09-20 - Added Laravel coding standard
