@@ -13,6 +13,7 @@ It is intended to make developers life easier and code more beautiful.
  * [CSSComb](http://csscomb.com/)
  * [JSHint](http://jshint.com/) - ([Official Docs](http://jshint.com/docs/))
  * [JSCS (includes ESLint now)](http://jscs.info/) - ([Official Docs](http://jscs.info/rules))
+ * [ESLint](http://eslint.org/) - ([Official Docs](http://eslint.org/docs/rules/))
 
 
 ## Languages and Guidelines
