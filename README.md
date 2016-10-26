@@ -23,12 +23,14 @@ Projects or Organisations using multiple languages.
 
 To prevent having a bunch of files with only few rules, they are combined in one single file per Project/Oranisation.
 
+ * [AngularJS](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/angularjs/) (TypeScript, JS)
  * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/bootstrap/) (CSS, HTML, JS, LESS, SASS)
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/) (C++, CSS, HTML, JS, Java, Lisp, Objective-C, Python, R, Shell, XML)
  * [Joomla](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/joomla/) (PHP, HTML, CSS, JS)
  * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/jquery/) (JS, HTML, CSS))
  * [Microsoft](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/microsoft/) (C#, Visual Basic)
  * [Mozilla](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/mozilla/) (Python, Java, SVG)
+ * [NodeJS](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/nodejs/) (C++, Phyton, JS)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/open-knowledge-foundation/) (CSS, HTML, JS, Python)
  * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/) (CSS, HTML, JS/JSON, LESS, PHP, SQL, Typoscript)
  * [Wordpress](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/wordpress/) (PHP, HTML, CSS, JS)
@@ -69,11 +71,14 @@ To prevent having a bunch of files with only few rules, they are combined in one
  * [Oracle](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/java-oracle/)
 
 ### Javascript/JSON
+ * [AngularJS](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/angularjs/)
  * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/bootstrap/)
  * [Douglas Crockford](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/javascript-douglas-crockford/)
  * [Google](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/google/)
  * [jQuery](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/jquery/)
  * [Open Knowledge Foundation](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/open-knowledge-foundation/)
+ * [NodeJS](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/nodejs/)
+ * [React](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/reactjs/)
  * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/)
 
 ### LESS
@@ -100,6 +105,7 @@ To prevent having a bunch of files with only few rules, they are combined in one
  * [PEAR](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php-pear/)
  * [PSR-1](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php-psr-1/)
  * [PSR-2](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/php-psr-2/)
+ * [Symfony](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/symfony/)
  * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/)
  * [Zend](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/zend/)
 
@@ -123,6 +129,9 @@ To prevent having a bunch of files with only few rules, they are combined in one
 ### Swift
  * [Github](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/swift-github/)
  * [Raywenderlich](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/swift-raywenderlich/)
+
+### TypeScript
+ * [AngularJS](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/angularjs/)
 
 ### Typoscript
  * [Typo3](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/typo3/)
@@ -153,6 +162,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
+ * 2016-10-26 - Added NodeJS, React, Symfony, AngularJS coding standards
  * 2016-10-25 - Updated Typo3 coding standards
  * 2016-10-19 - Added Swift and Objective-C coding standards
  * 2016-10-15 - Restructured directories and files
