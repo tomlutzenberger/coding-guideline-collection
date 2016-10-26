@@ -2,7 +2,7 @@
 
 This is a collection of files, which follow common coding guidelines.
 
-It is intended to make developers life easier and code more beautiful.
+It is intended to make developers life easier and help them to code better.
 
 
 ## Supported Files
@@ -21,7 +21,7 @@ It is intended to make developers life easier and code more beautiful.
 ### General
 Projects or Organisations using multiple languages.
 
-To prevent having a bunch of files with only few rules, they are combined in one single file per Project/Oranisation.
+To prevent having a bunch of files with only few rules, they are combined in one single file per Project/Organisation.
 
  * [AngularJS](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/angularjs/) (TypeScript, JS)
  * [Bootstrap](https://github.com/tomlutzenberger/coding-guideline-collection/blob/master/bootstrap/) (CSS, HTML, JS, LESS, SASS)
@@ -162,7 +162,7 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
- * 2016-10-26 - Added NodeJS, React, Symfony, AngularJS coding standards
+ * 2016-10-26 - Added NodeJS, React, Symfony and AngularJS coding standards
  * 2016-10-25 - Updated Typo3 coding standards
  * 2016-10-19 - Added Swift and Objective-C coding standards
  * 2016-10-15 - Restructured directories and files
