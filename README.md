@@ -14,6 +14,7 @@ It is intended to make developers life easier and help them to code better.
  * [JSHint](http://jshint.com/) - ([Official Docs](http://jshint.com/docs/))
  * [JSCS (includes ESLint now)](http://jscs.info/) - ([Official Docs](http://jscs.info/rules))
  * [ESLint](http://eslint.org/) - ([Official Docs](http://eslint.org/docs/rules/))
+ * [Babel](https://babeljs.io/) - ([Official Docs](https://babeljs.io/docs/usage/babelrc/))
 
 
 ## Languages and Guidelines
