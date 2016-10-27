@@ -163,6 +163,8 @@ This collection is published under the **[MIT License](LICENSE)** and can be use
 
 ## Changelog
 
+ * 2016-10-28 - Updated and extended Drupal coding standard
+ * 2016-10-27 - Updated and extended Bootstrap coding standard
  * 2016-10-26 - Added NodeJS, React, Symfony and AngularJS coding standards
  * 2016-10-25 - Updated Typo3 coding standards
  * 2016-10-19 - Added Swift and Objective-C coding standards
