@@ -1,0 +1,21 @@
+/*
+ * Babel Rules for Bootstrap coding standard
+ *
+ * For details see:
+ * https://github.com/twbs/bootstrap/blob/master/js/.babelrc
+ */
+
+{
+  "presets": [
+    [
+      "es2015",
+      {
+        "modules": false,
+        "loose": true
+      }
+    ]
+  ],
+  "plugins": [
+    "transform-es2015-modules-strip"
+  ]
+}
